@@ -20,6 +20,7 @@ namespace First_GitHub_Project.Controllers
 
         public IActionResult Index()
         {
+            //adding some code
             return View();
         }
 
